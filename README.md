@@ -1,5 +1,5 @@
 # **SAFE CREDENTIALS**
-### **Video Demo:**  [link](https://youtu.be/pnMG-DS3jyw)
+
 
 **Description:** A simple program which allows the user to create an encrypted database to store logins, passwords and notes related to the URL / title. The program requires the creation of a database, and the user is prompted to confirm. After acceptance, a new password needs to be provided and repeated. After that, the encrypted database will be created. After that, the encrypted database will be created. In the next step user needs to provide the password to decrypt and login into an existing database. The following commands are available: list - list all entries in the database, add - add new entry to database, search - search for an entry in the database, del - delete an item, exit - quit the program.
 
